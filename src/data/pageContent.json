@@ -1,0 +1,74 @@
+{
+  "brand": {
+    "name": "VORTEX",
+    "tagline": "Digital Innovations",
+    "logoAlt": "Logo VORTEX Digital Innovations",
+    "logoSrc": "/logo-vortex.png",
+    "logoWidth": 280,
+    "logoHeight": 235
+  },
+  "hero": {
+    "title": "Pagamento Confirmado! O teu projeto VORTEX foi ativado. 🚀",
+    "subtitle": "Parabéns por dar esse passo estratégico para o seu negócio. Sua vaga na nossa esteira de desenvolvimento está garantida.",
+    "successLabel": "Projeto ativado na esteira VORTEX"
+  },
+  "maintenance": {
+    "message": "⚠️ Último passo obrigatório: Para garantir a hospedagem segura, rotinas de backup e o suporte técnico contínuo do teu site, clica no botão abaixo para ativar o teu Plano de Manutenção de R$ 85/mês.",
+    "cta": {
+      "label": "Ativar Plano de Manutenção (R$ 85/mês)",
+      "href": "https://pay.herospark.com/plano-de-manutencao-e-suporte-tecnico-vortex-523997",
+      "ariaLabel": "Ativar plano de manutenção mensal VORTEX na HeroSpark"
+    }
+  },
+  "nextSteps": {
+    "title": "Próximos Passos",
+    "description": "Prazo de 3 dias úteis para entrega do site, contados a partir do envio completo dos materiais.",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Envio de Materiais",
+        "description": "Envie logo, textos, referências visuais e imagens da sua empresa para personalizarmos cada detalhe."
+      },
+      {
+        "id": 2,
+        "title": "Início do Prazo",
+        "description": "O prazo de 3 dias úteis começa a contar somente após o recebimento de 100% do material solicitado."
+      },
+      {
+        "id": 3,
+        "title": "Revisão e Lançamento",
+        "description": "Você recebe o site moderno, responsivo e otimizado para SEO, com rodada de ajustes antes de publicar."
+      }
+    ]
+  },
+  "whatsappCta": {
+    "sectionTitle": "Envie os materiais do seu projeto",
+    "sectionHint": "Depois de ativar a manutenção, nossa equipe inicia a produção assim que receber seus arquivos.",
+    "label": "Enviar Materiais no WhatsApp",
+    "href": "https://wa.me/5514997377300?text=Ol%C3%A1%20VORTEX%21%20Acabei%20de%20concluir%20o%20pagamento%20e%20gostaria%20de%20enviar%20os%20materiais%20do%20meu%20site.",
+    "ariaLabel": "Enviar materiais do projeto pelo WhatsApp"
+  },
+  "footer": {
+    "copyright": "© 2026 VORTEX Digital Innovations — Soluções Digitais que geram resultados.",
+    "rights": "Todos os direitos reservados.",
+    "supportLinks": [
+      {
+        "label": "Suporte por E-mail",
+        "href": "mailto:contato@vortexdigital.com.br"
+      },
+      {
+        "label": "Central de Ajuda",
+        "href": "https://vortexdigital.com.br/ajuda"
+      },
+      {
+        "label": "Política de Privacidade",
+        "href": "https://vortexdigital.com.br/privacidade"
+      }
+    ]
+  },
+  "meta": {
+    "pageTitle": "Projeto Ativado | VORTEX Digital Innovations",
+    "description": "Pagamento confirmado. Ative o plano de manutenção e envie os materiais para iniciar a produção do seu site VORTEX.",
+    "locale": "pt-BR"
+  }
+}
